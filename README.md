@@ -1,4 +1,6 @@
 <h1>web 3.0 learning</h1>
+<h2>心智圖</h2>
+<a href="https://gitmind.com/app/docs/mhkh56rh">https://gitmind.com/app/docs/mhkh56rh</a>
 <h2>目標</h2>
 <p>認識Web3.0並學習相關技能</p>
 <h2>學習知識</h2>
