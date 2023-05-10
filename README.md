@@ -28,5 +28,8 @@
 <li>非關聯式資料庫: MongoDB</li>
 
 <h2>實作練習一</h2>
+<a href="[https://gitmind.com/app/docs/mhkh56rh](https://youtu.be/4DOWdjLKxdw)">[https://gitmind.com/app/docs/mhkh56rh](https://youtu.be/4DOWdjLKxdw)</a>
 
+<h2>實作練習二</h2>
+<a href="[https://gitmind.com/app/docs/mhkh56rh](https://youtu.be/iQECvVVTwvA)">[https://gitmind.com/app/docs/mhkh56rh](https://youtu.be/iQECvVVTwvA)</a>
 
