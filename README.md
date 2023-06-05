@@ -33,3 +33,6 @@
 <h2>實作練習二</h2>
 <a href="https://youtu.be/4DOWdjLKxdw">https://youtu.be/4DOWdjLKxdw</a>
 
+<h2>專題</h2>
+<a href="https://github.com/Ayden0nnn/ticket-system">https://github.com/Ayden0nnn/ticket-system</a>
+
